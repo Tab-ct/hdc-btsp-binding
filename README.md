@@ -2,7 +2,7 @@
 
 
 This repository contains the code implementation for our paper:
-**"Behavioral Time Scale Synaptic Plasticity (BTSP) endows Hyperdimensional Computing (HDC) with attractor features"**  
+**"Behavioral Time Scale Synaptic Plasticity (BTSP) endows Hyperdimensional Computing with brain-like information retrieval flexibility"**  
 
 ## Status
 
